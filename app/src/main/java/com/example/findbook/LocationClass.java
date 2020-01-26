@@ -18,6 +18,7 @@ public class LocationClass //klasi pou krataei ti topothesia pou tha emfanistei 
 
     public float getLng() {
         return lng;
+        
     }
 
     public void setLng(float lng) {
