@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FindBook</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+
+    <string name="Setting_Prompt">Ρυθμισεις</string>
+    <string-array name="Setting_Array">
+        <item>Στοιχεια</item>
+        <item>Βιβλια</item>
+    </string-array>
+</resources>
